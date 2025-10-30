@@ -37,8 +37,8 @@ This is a feature-rich chat application that allows users to create, join, and p
       <p align="center"><b>Real-Time Chat Interface</b></p>
     </td>
     <td width="50%">
-      <img src="./docs/edit-profile.png" alt="Create Room" width="100%">
-      <p align="center"><b>Create Room Modal</b></p>
+      <img src="./docs/edit-profile.png" alt="Edit Profile" width="100%">
+      <p align="center"><b>Edit Profile Modal</b></p>
     </td>
   </tr>
 </table>
